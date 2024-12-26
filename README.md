@@ -55,9 +55,9 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 [View More](https://github.com/Tobigreat/Visa-project) 
 
 
-##Contact Details
+**Contact Details**
 
-*Let us connect and make build informed decisons with fact.* 
+*Let us connect and make informed decisons with fact.* 
 
 ☎️ +2348039293426
 📧 ajasaoluwatobi7@gmail.com
