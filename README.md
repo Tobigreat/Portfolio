@@ -58,11 +58,11 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 **Contact Details**
 
 *Let us connect and make informed decisons with fact.* 
-
-☎️ +2348039293426
-
-📧 ajasaoluwatobi7@gmail.com
-
-🌐 [Linkedln](https://www.linkedin.com/in/oluwatobiajasa/) 
-
+----------------------------------------------------------
+☎️  +2348039293426
+-----------------------------------------------------------
+📧  ajasaoluwatobi7@gmail.com
+-----------------------------------------------------------
+🌐  [Linkedln](https://www.linkedin.com/in/oluwatobiajasa/) 
+------------------------------------------------------------
 
