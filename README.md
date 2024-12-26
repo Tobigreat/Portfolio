@@ -27,7 +27,7 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 [View More](https://app.powerbi.com/view?r=eyJrIjoiMjBiMTJlYTItMTdhOS00NGM4LWIwMzQtNTQyN2RkOWE5ZDNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=346fa750ec9e8ed9828e)
 
 
-**Revenue Analysis: The analysis highlights areas of strong performance and potential bottlenecks**
+**Revenue Analysis:The analysis highlights areas of strong performance and potential bottlenecks**
 
 ![image](Revenue Analysis.png)
 
