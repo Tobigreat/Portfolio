@@ -7,7 +7,7 @@ I am a data analyst, researcher, and business consultant specializing in data ac
 
 I specialize in acquiring, analyzing, and interpreting data to provide actionable insights and solutions. My expertise lies in:
 
- ✅ Data Analysis and Visualization: Leveraging tools like Python, R, SQL, and Power BI to uncover trends and present findings clearly.
+ ✅ Data Analysis and Visualization: Leveraging tools like Python, R, SQL, Excel, SPSS, STATA and Power BI to uncover trends and present findings clearly.
 
  ✅ Predictive Modeling and Machine Learning: Developing models to forecast outcomes, optimize processes, and solve complex problems.
 
