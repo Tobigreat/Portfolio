@@ -40,7 +40,8 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 [View More](https://github.com/Tobigreat/Education-Management-Analysis) 
 
 
-**Movie Rentals: The potential acquisition and learning more about your rental business.**
+**Movie Rentals: The potential acquisition and learning more about your rental business**
 
+![image](dvd-movies-for-rent-in-britain-BKFA9W.jpg) 
 
 [View More](https://github.com/Tobigreat/Movie-Rentals) 
