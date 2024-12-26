@@ -15,4 +15,11 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
  ✅ Research and Policy Recommendations: Conducting in-depth research to deliver reliable insights and effective policy solutions.
 
+ <!--Section 2: List 3-4 key projects-->
+## PROJECT
+
+*A glimpse of some of the projects I've been working on.*
+
+**Sales-Performance: Uncover Customer Trend analysis**
+
 
