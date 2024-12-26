@@ -56,6 +56,7 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 
 ##Contact Details
+
 *Let us connect and make build informed decisons with fact.* 
 
 
