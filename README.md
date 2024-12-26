@@ -3,7 +3,7 @@
 I am a data analyst, researcher, and business consultant specializing in data acquisition to drive informed decisions. I analyze trends, consumer behaviour, and industry patterns to help organizations craft effective strategies and deliver impactful solutions. 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## Skills 
 
 I specialize in acquiring, analyzing, and interpreting data to provide actionable insights and solutions. My expertise lies in:
 
@@ -45,3 +45,12 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 ![image](dvd-movies-for-rent-in-britain-BKFA9W.jpg) 
 
 [View More](https://github.com/Tobigreat/Movie-Rentals) 
+
+
+**Easy Visa project: Business communities in the United States are facing high demand for human resources**
+
+![image](dvd-movies-for-rent-in-britain-BKFA9W.jpg) 
+
+[View More](https://github.com/Tobigreat/Visa-project) 
+
+
