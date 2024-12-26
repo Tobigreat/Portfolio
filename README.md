@@ -35,5 +35,6 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 **Education Management Information System: Selection of school to be part of a public private partnership**
 
+![image](Education.jpeg)
 
 [View More](https://github.com/Tobigreat/Education-Management-Analysis) 
