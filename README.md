@@ -23,4 +23,6 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 **Sales-Performance: Uncover Customer Trend analysis**
 ![image](Sales Dashboard1.png)
 
+[Read More](https://github.com/Tobigreat/Sales-Performance-PBI-Tool/blob/main/salestore%20data.pbix) 
+
 
