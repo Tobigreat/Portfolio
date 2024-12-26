@@ -18,9 +18,17 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
  <!--Section 2: List 3-4 key projects-->
 ## PROJECT
 
-*A glimpse of some of the projects I've been working on.*
+*A glimpse of some of the projects.*
 
 **Sales-Performance: Uncover Customer Trend analysis**
+
+![image](Sales Dashboard1.png)
+
+[View More](https://app.powerbi.com/view?r=eyJrIjoiMjBiMTJlYTItMTdhOS00NGM4LWIwMzQtNTQyN2RkOWE5ZDNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=346fa750ec9e8ed9828e)
+
+
+** Revenue Analysis: The analysis highlights areas of strong performance and potential bottlenecks.**
+
 ![image](Sales Dashboard1.png)
 
 [View More](https://app.powerbi.com/view?r=eyJrIjoiMjBiMTJlYTItMTdhOS00NGM4LWIwMzQtNTQyN2RkOWE5ZDNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=346fa750ec9e8ed9828e)
