@@ -20,10 +20,12 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 *A glimpse of some of the projects.*
 
-**Geospatial Analysis: Mapping for Nigerian Market Infrastructure**
+**Geospatial Analysis: Tracking Nigerian Markets by Market Days**
 
-![image](GIS.jpeg)
+![image](Rplot02.png)
 
+
+[View More](https://github.com/Tobigreat/Geospatial).
 
 
 **Sales-Performance: Uncover Customer Trend analysis**
