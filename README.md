@@ -20,6 +20,10 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 *A glimpse of some of the projects.*
 
+** Geospatial Analysis: Mapping for Nigerian Market Infrastructure**
+![image](Sales Dashboard1.png)
+
+
 **Sales-Performance: Uncover Customer Trend analysis**
 
 ![image](Sales Dashboard1.png)
