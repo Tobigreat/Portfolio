@@ -25,7 +25,7 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 ![image](BMII.jpg)
 
 
-[View More](https://github.com/Tobigreat/BMI).
+[View More](https://github.com/Tobigreat/ML-BMI).
 
 
 **Sales-Performance: Uncover Customer Trend analysis**
