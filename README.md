@@ -22,10 +22,10 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 **Obesity Classification in Adult using Machine Learning **
 
-![image](Rplot02.png)
+![image](BMII.jpg)
 
 
-[View More](https://github.com/Tobigreat/Geospatial).
+[View More](https://github.com/Tobigreat/BMI).
 
 
 **Sales-Performance: Uncover Customer Trend analysis**
