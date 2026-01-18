@@ -20,7 +20,7 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 *A glimpse of some of the projects.*
 
-**Obesity Classification in Adult using Machine Learning **
+**Obesity Classification in Adults using Machine Learning**
 
 ![image](BMII.jpg)
 
@@ -61,6 +61,11 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 
 [View More](https://github.com/Tobigreat/Visa-project) 
+
+
+**Customer Churn: Prediction of Customers using Random Forest Classifier**
+
+![image](how-can-i-download-vietnam-visa-application-form-3.jpg) 
 
 
 **Contact Details**
