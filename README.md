@@ -20,7 +20,7 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 *A glimpse of some of the projects.*
 
-**Geospatial Analysis: Tracking Nigerian Markets by Market Days**
+**Obesity Classification in Adult using Machine Learning **
 
 ![image](Rplot02.png)
 
