@@ -65,8 +65,9 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 
 **Customer Churn: Prediction of Customers using Random Forest Classifier**
 
-![image](how-can-i-download-vietnam-visa-application-form-3.jpg) 
+![image](Customerchurn.png) 
 
+[View More](https://github.com/Tobigreat/Customer-Churn) 
 
 **Contact Details**
 
