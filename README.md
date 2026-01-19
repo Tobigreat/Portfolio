@@ -42,7 +42,7 @@ I specialize in acquiring, analyzing, and interpreting data to provide actionabl
 [View More](https://app.powerbi.com/view?r=eyJrIjoiNjMwOTZiOWEtNDMzMi00Zjc2LTk5NzItYjJmM2M0ZTFhNDUzIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&embedImagePlaceholder=true&pageName=ReportSectionbf998f421387f8863047)
 
 
-**Call Center Analysis: Call Center Performance **
+**Call Center Analysis: Call Center Performance**
 
 ![image](callcall.png)
 
